@@ -1,0 +1,6 @@
+body, html {
+    height: 100%;
+    margin-left: 300px;
+    overflow: hidden;
+    background-color: #9FE2BF;
+}
